@@ -1,6 +1,5 @@
-/* eslint-disable linebreak-style */
+<<<<<<< HEAD
 import './css/style.css';
 
 import './js/app';
-
-import './img/goblin.png';
+=======
